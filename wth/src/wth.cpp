@@ -21,7 +21,7 @@ int main() {
 	Colour *c = new Colour();
 	c->setRed(99);
 	int red = c->getRed();
-	cout << "Yee dekho isko:"<< red;
+	cout << "c->getRed() returns:"<< red;
 	printf("%d \n",p->doX(10, 10));
 	delete p;
 	return 0;
