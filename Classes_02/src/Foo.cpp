@@ -9,7 +9,7 @@
 #include "Foo.h"
 using namespace std;
 
-Foo::Foo() : a(1), b(2), i(3.4), j(6.7)
+Foo::Foo() : a(1), b(2), i(3.4), j(9.7)
 {
 	cout <<"Constructor invoked, values initialised using insitializer\n";
 }
