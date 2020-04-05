@@ -16,7 +16,7 @@ public:
 protected:
 	int a,b;
 private:
-	int i,j;
+	double i,j;
 };
 
 
